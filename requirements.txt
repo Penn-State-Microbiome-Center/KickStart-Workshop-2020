@@ -1,0 +1,5 @@
+OPAL # https://anaconda.org/bioconda/cami-opal
+AMBER # https://anaconda.org/bioconda/cami-amber
+CAMISIM # https://github.com/CAMI-challenge/CAMISIM
+minia # https://anaconda.org/bioconda/minia
+kraken2 # https://anaconda.org/bioconda/kraken2
