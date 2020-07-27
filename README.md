@@ -15,7 +15,7 @@ Check out [Day3-WGSAnalysis](/Day3-WGSAnalysis) to see how I've structured the W
 
 ## Tentative schedule
 
-- Day 0: (OPTIONAL) Unix Basics and Intro to Programming -- Emily Davenport
+- Day 0: (OPTIONAL) [Unix Basics and Intro to Programming](/Day0-UnixBasics) -- Emily Davenport
 - Day 1: Basics of Microbiome Analysis - From Planning to Sequencing (Exp. Design; 
 Controls; Sampling; DNA Extraction; DNA Libraries; Sequencing) -- All Tutors
 - Day 2: Amplicon Analysis Workshop -- Laura Weyrich
