@@ -1,21 +1,13 @@
-# Day3-WGSAnalysis
+# Day3 - WGS or Shotgun Metagenomic Analysis Analysis
 
 ## Goals
-Description of goals
+The overarching goal is to assess a shotgun metagenomic analysis using MALT/MEGAN. We will be identifying sequences using MALT, and then doing preliminary analysis in MEGAN. All data and scripts will be available on ICS on the day of the workshop.
 
-## Activities
-Description of activities to be done
+## Programs
 
-1. [FirstSteps](Activities/FirstSteps)
-1. [Profiling](Activities/Profiling)
-1. [Assembly](Activities/Assembly)
-1. [Binning](Activities/Binning)
-1. [FunctionalAnnotation](Activities/FunctionalAnnotation)
+1. [MALT](https://software-ab.informatik.uni-tuebingen.de/download/malt/welcome.html)
+1. [MEGAN](https://software-ab.informatik.uni-tuebingen.de/download/megan6/welcome.html)
 
-
-## Resources
-Description of resources
-
-#### Material in this repo
-
-#### External resources
+## Resource Communities 
+1. [MALT](http://megan.informatik.uni-tuebingen.de/c/malt-megan-alignment-tool/16)
+2. [MEGAN](http://megan.informatik.uni-tuebingen.de/)
