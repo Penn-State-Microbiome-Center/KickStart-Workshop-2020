@@ -16,6 +16,6 @@
 2. Brief History of Microbiome Research (Estelle Couradeau)
 3. Come up with Experimental Study Example
 4. Sampling (Sharifa Crandall)
-5. Controls/Contamination (Laura Weyrich) - pdf (Day1-MicrobiomeAnalysisBasics/2020_KickStartWorkshop_Contamination_lowres.pdf)
+5. Controls/Contamination (Laura Weyrich) - [pdf](Day1-MicrobiomeAnalysisBasics/2020_KickStartWorkshop_Contamination_lowres.pdf)
 6. DNA Extraction/Library Prep (Emily Davenport) - [keynote](2020_DNA_extraction_and_library_prep_microbiome_center_kick_start_workshop_2020-08-04.key) | [pdf](2020_DNA_extraction_and_library_prep_microbiome_center_kick_start_workshop_2020-08-04.pdf)
 7. Sequencing Technology (Darrell Cockburn)
