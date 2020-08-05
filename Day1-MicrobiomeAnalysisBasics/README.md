@@ -13,7 +13,7 @@
 
 ## Schedule
 1. Welcome and Introductions (Breakout Groups and Intros)
-2. Brief History of Microbiome Research (Estelle Couradeau)
+2. Brief History of Microbiome Research (Estelle Couradeau) - [pdf](Day1-MicrobiomeAnalysisBasics/intro_microbiome_842020_couradeau.pdf)
 3. Come up with Experimental Study Example
 4. Sampling (Sharifa Crandall)
 5. Controls/Contamination (Laura Weyrich) - [pdf](Day1-MicrobiomeAnalysisBasics/2020_KickStartWorkshop_Contamination_lowres.pdf)
