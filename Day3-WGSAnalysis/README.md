@@ -14,3 +14,8 @@ After the workshop, continue the conversation on the community pages:
 
 1. [MALT](http://megan.informatik.uni-tuebingen.de/c/malt-megan-alignment-tool/16)
 2. [MEGAN](http://megan.informatik.uni-tuebingen.de/)
+
+## Lecture and Tutorial Files
+The first lecture on general shotgun metagenomic analyses can be found [here](1_BioinformaticsWorkshop_2020_Shotgun.pdf).
+
+The second lecture about how MALT and MEGAN operate can be found [here](2_MALTandMEGAN_2020_pdf.pdf).
