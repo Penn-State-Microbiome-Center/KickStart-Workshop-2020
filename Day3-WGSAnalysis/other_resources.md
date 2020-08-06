@@ -34,6 +34,9 @@ MaxBin2 https://sourceforge.net/projects/maxbin2/files/
 DASTool https://github.com/cmks/DAS_Tool
 MetaWrap (modular) https://github.com/bxlab/metaWRAP
 
+## 
+BioRXiv paper pulling out markers , trained on fungi, equivalent to HUMAnN2 but for fungi  
+
 ## Kraken
 https://github.com/DerrickWood/kraken2/wiki
 Kraken 2 is the newest version of Kraken, a taxonomic classification system using exact k-mer matches to achieve high accuracy and fast classification speeds
@@ -41,11 +44,11 @@ Kraken 2 is the newest version of Kraken, a taxonomic classification system usin
 ## Kbase webinar
 KBase: https://kbase.us/webinars/
 
-# Into to omics
+## Intro to omics
 Including explanation of kmers, read mapping and more!
 https://www.youtube.com/channel/UCVFH6ULygyqqLGfDnmf0G4A
 
-#HOPS 
+## HOPS 
 Add-on after MALT to work on SAM files (alignements)
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1903-0
 
