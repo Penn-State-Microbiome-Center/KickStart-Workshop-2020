@@ -58,9 +58,17 @@ Add-on after MALT to work on SAM files (alignements)
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1903-0
 
 
-## EukDetect
-BioRXiv paper pulling out markers , trained on fungi, equivalent to HUMAnN2 but for fungi  
+## Resources for Euk
+
+BioRXiv paper pulling out markers , trained on fungi, equivalent to HUMAnN2 but for fungi (mentioned by Laura) 
 https://www.biorxiv.org/content/10.1101/2020.07.22.216580v1.full
+
+Diana Ayala said For Euk in metagenomes, I have also used these two tools :
+
+>EukRep (https://github.com/patrickwest/EukRep)  
+
+>MetaEuk (https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x)
+
 
 
 
