@@ -45,6 +45,9 @@ KBase: https://kbase.us/webinars/
 Including explanation of kmers, read mapping and more!
 https://www.youtube.com/channel/UCVFH6ULygyqqLGfDnmf0G4A
 
+#HOPS 
+Add-on after MALT to work on SAM files (alignements)
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1903-0
 
 
 
