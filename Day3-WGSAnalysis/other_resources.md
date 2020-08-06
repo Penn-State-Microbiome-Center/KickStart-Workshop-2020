@@ -1,8 +1,9 @@
 # Other resources - metagenomics & stuff
 
 Please keep in mind that there are tones of tools, some people might recommend different things...
+You might want to look up papers from people working on the same type of samples as you are and who have been doing that for some time :)
 
-## pull out SSU from metagenome##
+## pull out SSU from metagenome
 EMIRGE (widely used)
 https://github.com/csmiller/EMIRGE
 
@@ -29,6 +30,7 @@ Other binning software / or bin QC to consider
 Metabat2 https://bitbucket.org/berkeleylab/metabat/src/master/
 MaxBin2 https://sourceforge.net/projects/maxbin2/files/
 DASTool https://github.com/cmks/DAS_Tool
+MetaWrap (modular) https://github.com/bxlab/metaWRAP
 
 ## Kraken
 https://github.com/DerrickWood/kraken2/wiki
@@ -36,6 +38,10 @@ Kraken 2 is the newest version of Kraken, a taxonomic classification system usin
 
 ## Kbase webinar
 KBase: https://kbase.us/webinars/
+
+# Into to omics
+Including explanation of kmers, read mapping and more!
+https://www.youtube.com/channel/UCVFH6ULygyqqLGfDnmf0G4A
 
 
 
