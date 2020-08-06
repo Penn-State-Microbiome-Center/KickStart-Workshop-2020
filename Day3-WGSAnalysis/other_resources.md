@@ -5,13 +5,13 @@ Please keep in mind that there are tones of tools, some people might recommend d
 You might want to look up papers from people working on the same type of samples as you are and who have been doing that for some time :)
 
 ## pull out SSU from metagenome
-EMIRGE (widely used)
+>EMIRGE (widely used)
 https://github.com/csmiller/EMIRGE
 
-SortMeRNA (also widely used)
+>SortMeRNA (also widely used)
 https://bioinfo.lifl.fr/RNA/sortmerna/
 
-Phyloflash (new)
+>Phyloflash (new)
 https://github.com/HRGV/phyloFlash
 
 ## PICRUSt2 
@@ -28,11 +28,19 @@ https://www.nature.com/articles/nbt.3893
 Also this tutorial from the Meren lab if you are starting 
 http://merenlab.org/tutorials/infant-gut/
 
-Other binning software / or bin QC to consider
-Metabat2 https://bitbucket.org/berkeleylab/metabat/src/master/
-MaxBin2 https://sourceforge.net/projects/maxbin2/files/
-DASTool https://github.com/cmks/DAS_Tool
-MetaWrap (modular) https://github.com/bxlab/metaWRAP
+Other binning software / or bin QC to consider:
+
+>Metabat2 
+https://bitbucket.org/berkeleylab/metabat/src/master/
+
+>MaxBin2 
+https://sourceforge.net/projects/maxbin2/files/
+
+>DASTool 
+https://github.com/cmks/DAS_Tool
+
+>MetaWrap (modular) 
+https://github.com/bxlab/metaWRAP
 
 ## Kraken
 https://github.com/DerrickWood/kraken2/wiki
