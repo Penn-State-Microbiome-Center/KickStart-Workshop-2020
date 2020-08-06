@@ -1,6 +1,7 @@
 # Other resources - metagenomics & stuff
 
 Please keep in mind that there are tones of tools, some people might recommend different things...
+
 You might want to look up papers from people working on the same type of samples as you are and who have been doing that for some time :)
 
 ## pull out SSU from metagenome
@@ -16,6 +17,7 @@ https://github.com/HRGV/phyloFlash
 ## PICRUSt2 
 (Phylogenetic Investigation of Communities by Reconstruction of Unobserved States) is a software for predicting functional abundances based only on marker gene sequences.
 https://github.com/picrust/picrust2/wiki
+
 Mara (our own TA :) ) made a YouTube tuto on picrust 2
 https://www.youtube.com/watch?v=xZ7yc-GKcSk
 
