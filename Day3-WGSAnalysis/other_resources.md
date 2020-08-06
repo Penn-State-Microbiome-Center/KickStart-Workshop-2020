@@ -69,6 +69,10 @@ Diana Ayala said For Euk in metagenomes, I have also used these two tools :
 
 >MetaEuk (https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x)
 
+## Megan community
+
+http://megan.informatik.uni-tuebingen.de/
+
 
 
 
